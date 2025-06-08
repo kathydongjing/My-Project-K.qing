@@ -5,6 +5,7 @@ public class Cube {
     private int height;
     private int width; 
     private int length; 
+    private int duck; 
 
     //constructors
     public Cube(int side) {
